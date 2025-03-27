@@ -1,0 +1,16 @@
+{
+  "toggle_front_driver_door": "Comuta usa din fata (sofer)",
+  "toggle_front_passenger_door": "Comuta usa din fata (pasager)",
+  "toggle_rear_driver_door": "Comuta usa din spate (sofer)",
+  "toggle_rear_passenger_door": "Comuta usa din spate (pasager)",
+  "toggle_hood": "Comuta capota",
+  "toggle_trunk": "Comuta portbagajul",
+  "debug_box": "(Debug) Cutie",
+  "debug_sphere": "(Debug) Sfera",
+  "debug_police_car": "Masina de politie",
+  "debug_ped": "(Debug) Pieton",
+  "debug_vehicle": "(Debug) Vehicul",
+  "debug_object": "(Debug) Obiect",
+  "toggle_targeting": "Comuta tintirea",
+  "go_back": "Intoarce-te"
+}

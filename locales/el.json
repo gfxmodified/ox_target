@@ -1,0 +1,17 @@
+{
+    "toggle_front_driver_door": "Άνοιγμα/Κλείσιμο μπροστινής πόρτας οδηγού",
+    "toggle_front_passenger_door": "Άνοιγμα/Κλείσιμο μπροστινής πόρτας συνοδηγού",
+    "toggle_rear_driver_door": "Άνοιγμα/Κλείσιμο πίσω πόρτας οδηγού",
+    "toggle_rear_passenger_door": "Άνοιγμα/Κλείσιμο πίσω πόρτας συνοδηγού",
+    "toggle_hood": "Άνοιγμα/Κλείσιμο καπό",
+    "toggle_trunk": "Άνοιγμα/Κλείσιμο πορτμπαγκάζ",
+    "debug_box": "(Debug) Κουτί",
+    "debug_sphere": "(Debug) Σφαίρα",
+    "debug_police_car": "Αστυνομικό όχημα",
+    "debug_ped": "(Debug) Πεζός",
+    "debug_vehicle": "(Debug) Όχημα",
+    "debug_object": "(Debug) Αντικείμενο",
+    "toggle_targeting": "Άνοιγμα/Κλείσιμο στόχευσης",
+    "go_back": "Πήγαινε πίσω"
+  }
+  
